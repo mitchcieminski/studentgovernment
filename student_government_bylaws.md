@@ -47,20 +47,9 @@ The Council of Olin Representatives will be comprised of three executive officer
 2. the Vice President for Communications
 3. the Vice President for Finance
 
-Five of the ten representatives will be Specialized Representatives who will each meet directly with senior administrators of the College on a regular basis. These representatives will include:
+Five of the ten representatives will be Specialized Representatives who will each meet directly with senior administrators of the College on a regular basis.
 
-1. a Representative to Operations
-2. a Representative to Marketing and Communications and Development, Family, and Alumni Relations
-3. a Representative to Admissions and the Office of Student Affairs and Resources
-4. a Representative for Curriculum and Faculty
-5. a Representative for Intercollegiate Affairs
-
-The remaining five representatives will be Class Representatives. These representatives will include:
-
-1. a Senior Class Representative
-2. a Junior Class Representative
-3. a Sophomore Class Representative
-4. two First Year Class Representatives.
+The remaining five representatives will be Community Representatives where a community is a group of students who joined Olin in the same year.
 
 #### Section 2. Executives.
 
@@ -97,15 +86,17 @@ The Student Body will elect the following five Specialized Representatives:
 
 As the definition, function, and communication pathways of the Specialized Representatives are to be discovered during the first year of this document’s existence (2015-2016 school year), [Article 2, Section 3](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-3-specialized-representatives) must be amended before the Spring Elections of 2016. 
 
-#### Section 4. Class Representatives.
+#### Section 4. Community Representatives.
 
-There will be five Class Representatives who will represent their respective graduating classes. Each Class Representative will:
+There will be five Community Representatives who will represent their respective student communities. A student community is a group of students who joined Olin in the same year. Communities will usually be referred to by the year they joined Olin, but for the sake of these By-Laws, the four largest communities will be referred to with ordinal numbers from first to fourth where the First Community will have attended Olin for one year by the end of the school year and the Fourth Community will have attended Olin for four years by the end of the school year.
 
-1. actively solicit feedback from their respective class to identify issues of concern and potential areas of improvement of student life that could be addressed by the Council,
-2. keep in touch with their class to better advise the Student Government and the Council of the interests, wishes, and feelings of their class, and
-3. participate in the organization of class events, and/or the allocation of their Class Events Fund.
+There will be one Community Representative for each of the four largest communities currently enrolled at Olin except for the First Community which will have two Community Representatives as this community would otherwise be under-represented on the Council because of the elections schedule. Current students not in one of the four largest communities will be represented by the Community Representative for the community nearest by year of entrance to their own.
 
-Each class will have one class representative, except for the First Year Class, which will have two representatives, as this class would otherwise be under-represented on the Council.
+Each Community Representative will:
+
+1. actively solicit feedback from their respective community to identify issues of concern and potential areas of improvement of student life that could be addressed by the Council,
+2. keep in touch with their community to better advise the Student Government and the Council of the interests, wishes, and feelings of their community, and
+3. participate in the organization of communnity events, and/or the allocation of their Community Events Fund.
 
 #### Section 5. Meetings.
 
@@ -125,7 +116,7 @@ Discussions, agenda items, and votes of the Council will take place in one of tw
 
 #### Section 8. Official Actions.
 
-Official Actions of the Council will include issuing Allocation Orders, publishing Recommendations, establishing Council Projects, voting on Committee Appointments, and arbitrating Disagreement Resolutions. All Official Actions of the Council may be passed with the approval of a majority of the voting members present with the exception of Committee Appointments which will be done by approval voting and Allocation Orders of the Discretionary Fund or the Class Events Funds which may be approved by a smaller subsection of the Council as defined in [Article 2, Sections 11](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-11-discretionary-fund) [and 12](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-12-class-events-funds) respectively. In order for a vote to be taken on an Official Action, a motion to its effect must be proposed and seconded. All Official Actions of the Council must be recorded separately and numbered.
+Official Actions of the Council will include issuing Allocation Orders, publishing Recommendations, establishing Council Projects, voting on Committee Appointments, and arbitrating Disagreement Resolutions. All Official Actions of the Council may be passed with the approval of a majority of the voting members present with the exception of Committee Appointments which will be done by approval voting and Allocation Orders of the Discretionary Fund or the Community Events Funds which may be approved by a smaller subsection of the Council as defined in [Article 2, Sections 11](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-11-discretionary-fund) [and 12](https://github.com/olin/studentgovernment/blob/master/student_government_bylaws.md#section-12-community-events-funds) respectively. In order for a vote to be taken on an Official Action, a motion to its effect must be proposed and seconded. All Official Actions of the Council must be recorded separately and numbered.
 
 #### Section 9. Allocation Orders.
 
@@ -139,11 +130,11 @@ By Allocation Order, the Council may allocate and spend the Student Initiatives 
 
 When the Council is not in session and for purposes which cannot wait until the next meeting of the Council, the President may issue Allocation Orders to allocate and spend the Discretionary Fund with the consent of the Vice President for Finance. For the purposes of documentation, Discretionary Fund Allocation Orders will be documented in the minutes of the next meeting of the Council and treated as an Official Action.
 
-#### Section 12. Class Events Funds.
+#### Section 12. Community Events Funds.
 
-There will be one Class Events Fund for each of the four graduating classes. The relevant Class Representative may issue Allocation Orders to allocate and spend their Class Events Fund with the consent of the Vice President for Finance. Events and activities paid for using a Class Events Fund should be directed towards the graduating class corresponding to the fund from which the money was allocated. For the purposes of documentation, Class Events Fund Allocation Orders will be documented in the minutes of the next meeting of the Council and treated as an Official Action.
+There will be one Community Events Fund for each of the four largest communities currently at Olin. The relevant Community Representative may issue Allocation Orders to allocate and spend their Community Events Fund with the consent of the Vice President for Finance. Events and activities paid for using a Community Events Fund should be directed towards the community corresponding to the fund from which the money was allocated. For the purposes of documentation, Community Events Fund Allocation Orders will be documented in the minutes of the next meeting of the Council and treated as an Official Action.
 
-Class Representatives are encouraged to enlist the help of fellow classmates to organize and plan class events. 
+Community Representatives are encouraged to enlist the help of fellow community members and classmates to organize and plan community events. 
 
 #### Section 13. Recommendations.
 
@@ -341,7 +332,7 @@ Allocation Order 0 will establish and allocate money for the following virtual f
 
 1. the Student Initiatives Fund, which will be managed and allocated by the Council of Olin Representatives,
 2. the Discretionary Fund, which will be managed and allocated by the President and Vice President for Finance of the Council of Olin Representatives,
-3. the Class Events Funds, consisting of an individual fund for each graduating class, which will be managed and allocated by the relevant Class Representative and the Vice President for Finance,
+3. the Community Events Funds, consisting of an individual fund for each student community, which will be managed and allocated by the relevant Community Representative and the Vice President for Finance,
 4. the Honor Board Fund, which will be managed and allocated by the Honor Board,
 5. the Student Events Fund, which will be managed and allocated by the Student Activities Committee,
 6. the Clubs and Organizations Fund, which will be managed and allocated by the Committee for Clubs and Organizations,
@@ -394,7 +385,7 @@ If a Rising Senior was not elected as Director of their respective Committee, Ri
 2. Assistant Director of Clubs and Organizations, and
 3. Assistant Director of Service.
 
-The Class Representative positions are only open to students from the particular class which the position represents. 
+The Community Representative positions are only open to students from the particular community which the position represents. 
 
 #### Section 2. The Election Monitor.
 
@@ -432,9 +423,9 @@ The following positions will be elected in the second cycle:
 6. Representative to the Office of Student Affairs and Resources, and Admissions
 7. Representative for Curriculum and Faculty
 8. Representative for Intercollegiate Affairs
-9. Senior Class Representative
-10. Junior Class Representative
-11. Sophomore Class Representative
+9. Fourth Community Representative
+10. Third Community Representative
+11. Second Community Representative
 12. Senior Class Affairs Representative
 
 Students elected to office during Spring Elections will take office as soon as is reasonable after Patriot’s Day as agreed upon by the incoming and outgoing Presidents.
@@ -443,7 +434,7 @@ Students elected to office during Spring Elections will take office as soon as i
 
 Elections in the fall will be held in one two-week cycle. In the first week of a two week cycle, nominations will be open for at least 48 hours during which the list of accepted nominations will be available to the Student Body. A presentation slide serves as a student’s declaration of candidacy and is required in order to run for office.  In the second week of a two week cycle, campaigning will take place and, at the end of the week, the polls will be open for at least 24 hours.
 
-Two First Year Class Representatives and any positions not filled during the spring elections will be elected during the fall elections.
+Two First Community Representatives and any positions not filled during the spring elections will be elected during the fall elections.
 
 Students elected to office during Fall Elections will take office immediately upon election.
 
@@ -468,7 +459,7 @@ To organize campaigning, the Election Monitor will email to the Student Body the
 
 At the end of the second week of an election cycle, students will vote on the positions up for election. Members of the Student Government will be elected by excellence voting. This means that a student may vote for as many of the candidates as they feel would excel in, and are qualified for, the position. Votes will be cast by secret ballot. The ballots will be prepared and distributed by the Election Monitor.
 
-The Honor Code specifies who is eligible to vote for Honor Board positions, but for other Student Government positions, seniors and other students not matriculating at Olin in the following academic year may not vote in spring elections. Class Representative positions may only be voted for by students in the particular graduating class which the position represents. Students that consider themselves members of multiple graduating classes may choose which Class Representative position they will vote for, providing they only vote for one Class Representative position.
+The Honor Code specifies who is eligible to vote for Honor Board positions, but for other Student Government positions, seniors and other students not matriculating at Olin in the following academic year may not vote in spring elections. Community Representative positions may only be voted for by students in the particular community which the position represents. Students not part of one of the four largest communities may vote in the election for the Community Representative for the community closest (based on year of entrance) to their own.
 
 For each position, the winner will be the student with the most excellence votes and who has garnered at least 50% of the votes. That is to say the winner must be considered qualified by at least 50% of voters. If no candidate meets these conditions, the election for that position will occur in the next scheduled election cycle. If a position is not filled during the first spring election cycle, the election for the position will occur again during the second spring election cycle. If a position is not filled during the second spring election cycle, the election for the position will occur again during the fall election cycle. If a position is not filled during the fall election cycle, a special election for the position will be held. 
 
