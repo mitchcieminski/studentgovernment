@@ -96,7 +96,7 @@ Each Community Representative will:
 
 1. actively solicit feedback from their respective community to identify issues of concern and potential areas of improvement of student life that could be addressed by the Council,
 2. keep in touch with their community to better advise the Student Government and the Council of the interests, wishes, and feelings of their community, and
-3. participate in the organization of communnity events, and/or the allocation of their Community Events Fund.
+3. participate in the organization of community events, and/or the allocation of their Community Events Fund.
 
 #### Section 5. Meetings.
 
@@ -132,7 +132,7 @@ When the Council is not in session and for purposes which cannot wait until the 
 
 #### Section 12. Community Events Funds.
 
-There will be one Community Events Fund for each of the four largest communities currently at Olin. The relevant Community Representative may issue Allocation Orders to allocate and spend their Community Events Fund with the consent of the Vice President for Finance. Events and activities paid for using a Community Events Fund should be directed towards the community corresponding to the fund from which the money was allocated. For the purposes of documentation, Community Events Fund Allocation Orders will be documented in the minutes of the next meeting of the Council and treated as an Official Action.
+There will be one Community Events Fund for each of the communities currently at Olin comprised of least three students. The relevant Community Representative may issue Allocation Orders to allocate and spend their Community Events Fund with the consent of the Vice President for Finance. Events and activities paid for using a Community Events Fund should be directed towards the community corresponding to the fund from which the money was allocated. For the purposes of documentation, Community Events Fund Allocation Orders will be documented in the minutes of the next meeting of the Council and treated as an Official Action.
 
 Community Representatives are encouraged to enlist the help of fellow community members and classmates to organize and plan community events. 
 
@@ -552,3 +552,11 @@ Additionally, each Transparency Document must contain the name of a current memb
 #### Section 3. Call to Action.
 
 An annual Call to Action will be sent to the Student Body in the first two weeks of classes each school year. This Call to Action will inform the Student Body of the core-discussion mailing list, of the locations of the Transparency Documents, of the elected members of the Student Government, and of the planned open meeting times of the Student Government and its Committees.
+
+### Article 14. Amendment Provisions.
+
+#### Section 1. Community Representation Amendment.
+
+The Community Representation Amendment changes CORe representation at a time when the elections for Senior, Junior, and Sophomore Class Representative have already occurred. Therefore, if this amendment is approved by the Student Government, the Senior Class Representative, Junior Class Representative, and Sophomore Class Representative will take office immediately and without an election as the Representative for the Community of 2012, Representative for the Community of 2013, and the Representative for the Community of 2014 respectively.
+
+This section becomes irrelevant immediately after it takes effect and may be removed from the Student Government By-Laws at that time.
